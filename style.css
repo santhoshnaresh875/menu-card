@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(to top, #756235c9 0%, #351818d2 100%);  
+    
+    
+}
+nav{
+    background: #BBD2C5;  
+background: -webkit-linear-gradient(to right, #0080b3, #4e779e, #9fecff);  
+background: linear-gradient(to right, #0080b3, #4e779e, #9fecff); 
+
+}
+table{
+    border: 1px solid black;
+}
+td,th{
+    border: 1px solid black;
+    padding: 1em;
+}
